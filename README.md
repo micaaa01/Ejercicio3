@@ -1,4 +1,4 @@
-# Ejercico 3
+# Ejercicio 3
 
 ## Descripción
 Este programa implementa una serie de funciones para resolver problemas comunes relacionados con matrices, intervalos, listas ligadas y arreglos. El programa incluye un menú interactivo que permite al usuario seleccionar y ejecutar cada una de las funciones.
